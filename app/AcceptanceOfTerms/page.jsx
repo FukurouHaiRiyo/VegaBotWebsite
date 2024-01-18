@@ -13,10 +13,10 @@ const AcceptanceOfTerms = () => {
                 Terms of Service
               </h1>
 
-              <div class="flex w-24 mt-1 mb-10 overflow-hidden rounded">
-                <div class="flex-1 h-2 bg-blue-200"></div>
-                <div class="flex-1 h-2 bg-blue-400"></div>
-                <div class="flex-1 h-2 bg-blue-600"></div>
+              <div class='flex w-24 mt-1 mb-10 overflow-hidden rounded'>
+                <div class='flex-1 h-2 bg-blue-200'></div>
+                <div class='flex-1 h-2 bg-blue-400'></div>
+                <div class='flex-1 h-2 bg-blue-600'></div>
               </div>
             </div>
 
@@ -51,11 +51,11 @@ const AcceptanceOfTerms = () => {
         <ul className='list-disc list-inside space-y-2 mt-4 text-gray-200'>
             <li>Respectful Behavior: Maintain a courteous and respectful demeanor towards other users at all times.</li>
             <li>No Misuse: Use Vega only for its intended purpose and refrain from any attempts to exploit or misuse its features.</li>
-            <li>Compliance with Discord's Terms: Adhere to Discord's own terms of service and community guidelines in all interactions involving the bot.</li>
+            <li>Compliance with Discord&#39s Terms: Adhere to Discord&#39s own terms of service and community guidelines in all interactions involving the bot.</li>
             <li>Report Issues: Promptly report any bugs, glitches, or issues encountered while using Vega to ensure a smooth experience for all users.</li>
         </ul>
 
-        <p className="mt-4 text-gray-200">
+        <p className='mt-4 text-gray-200'>
           Failure to comply with these responsibilities may result in restricted access to Vega features or removal from the server. I appreciate your cooperation in maintaining a positive community experience.
         </p>
       </div>
