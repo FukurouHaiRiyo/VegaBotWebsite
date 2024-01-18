@@ -30,6 +30,35 @@ const AcceptanceOfTerms = () => {
           </div>
         </div>
       </div>
+
+      <div className='max-w-4xl mx-auto p-6 bg-gray-800 rounded-lg shadow-md my-8'>
+        <h2 className='text-2xl font-semibold text-gray-200'>Modifications to the Terms</h2>
+          <p className='mt-4 text-gray-200'>
+            We reserve the right, at our sole discretion, to modify or replace these Terms at any time. When we do, we will post a notification on the main page of our website, send you an email, or provide a notification through the Discord interface.
+          </p>
+          <p className='mt-4 text-gray-00'>
+            What constitutes a material change will be determined at our sole discretion. We encourage users to frequently check this page for any changes. Your continued use of Vega after any such changes constitutes your acceptance of the new Terms.
+          </p>
+      </div>
+
+      <div className='max-w-4xl mx-auto p-6 bg-gray-800 rounded-lg my-8'>
+        <h2 className='text-3xl font-semibold text-gray-200'>User responsabilities</h2>
+
+        <p className='mt-4 text-gray-200'>
+            As a user, you are expected to adhere to certain standards of behavior and conduct to ensure a positive and respectful environment for all users. By using Vega, you agree to the following responsibilities:
+        </p>
+
+        <ul className='list-disc list-inside space-y-2 mt-4 text-gray-200'>
+            <li>Respectful Behavior: Maintain a courteous and respectful demeanor towards other users at all times.</li>
+            <li>No Misuse: Use Vega only for its intended purpose and refrain from any attempts to exploit or misuse its features.</li>
+            <li>Compliance with Discord's Terms: Adhere to Discord's own terms of service and community guidelines in all interactions involving the bot.</li>
+            <li>Report Issues: Promptly report any bugs, glitches, or issues encountered while using Vega to ensure a smooth experience for all users.</li>
+        </ul>
+
+        <p className="mt-4 text-gray-200">
+          Failure to comply with these responsibilities may result in restricted access to Vega features or removal from the server. I appreciate your cooperation in maintaining a positive community experience.
+        </p>
+      </div>
     </section>
   )
 }
