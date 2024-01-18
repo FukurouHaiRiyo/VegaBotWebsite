@@ -31,7 +31,7 @@ const DescriptionOfService = () => {
               <strong className='text-red-200'>Help Command:</strong> Provides users with information on how to use the bot and its commands<br/>
               <strong className='text-red-200'>Bot Information:</strong> Displays detailed information about GameBot<br/>
               <strong className='text-red-200'>Server Information:</strong> Offers insights into server details and statistics<br/>
-              <strong className='text-red-200'>Ping:</strong> Tests the bot's responsiveness and connection speed<br/>
+              <strong className='text-red-200'>Ping:</strong> {" Tests the bot's responsiveness and connection speed "}<br/>
               <strong className='text-red-200'>Sync and Unsync:</strong> Allows server owners to manage slash commands for customization<br/>
               <strong className='text-red-200'>Dice Roll:</strong> A fun feature to simulate dice rolling for games and decision-making<br/>
               <strong className='text-red-200'>Rock Paper Scissors:</strong> Play the classic Rock, Paper, Scissors game directly in Discord<br/>

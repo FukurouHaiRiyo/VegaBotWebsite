@@ -11,7 +11,7 @@ const PrivacyPolicy = () => {
       <div className='flex-grow max-w-4xl mx-auto p-6 bg-gray-800 rounded-lg my-8'>
         <h2 className='text-3xl font-semibold text-gray-200'>Privacy</h2>
           <p className='mt-4 text-gray-200'>
-            Your privacy is important to us. Vega is committed to responsibly handling the information and data we collect through our Discord bot in compliance with our Privacy Policy. This policy outlines the types of data we collect, how it&#39s used, and how we protect it.
+            {"Your privacy is important to us. Vega is committed to responsibly handling the information and data we collect through our Discord bot in compliance with our Privacy Policy. This policy outlines the types of data we collect, how it's used, and how we protect it."}
           </p>
           <p className='mt-4 text-gray-00'>
             What constitutes a material change will be determined at our sole discretion. We encourage users to frequently check this page for any changes. Your continued use of Vega after any such changes constitutes your acceptance of the new Terms.
@@ -25,10 +25,10 @@ const PrivacyPolicy = () => {
           <ul className="list-disc list-inside space-y-2 mt-4">
             <li>User IDs: To uniquely identify users within Discord.</li>
             <li>Server IDs: To provide server-specific commands and functionalities.</li>
-            <li>Interaction Data: To improve the bot&#39s functionality and user experience.</li>
+            <li>{"Interaction Data: To improve the bot's functionality and user experience."}</li>
         </ul>
         <p className='mt-4 text-gray-200'>
-          The data collected by Vega is used to provide and improve the bot&#39s functionality, offer personalized user experience and ensure bot&#39s stability and functionality. We do not sell or share this data with third parties.
+          {"The data collected by Vega is used to provide and improve the bot's functionality, offer personalized user experience and ensure bot's stability and functionality. We do not sell or share this data with third parties."}
         </p>
       </div>
 

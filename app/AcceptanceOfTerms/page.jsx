@@ -51,7 +51,7 @@ const AcceptanceOfTerms = () => {
         <ul className='list-disc list-inside space-y-2 mt-4 text-gray-200'>
             <li>Respectful Behavior: Maintain a courteous and respectful demeanor towards other users at all times.</li>
             <li>No Misuse: Use Vega only for its intended purpose and refrain from any attempts to exploit or misuse its features.</li>
-            <li>Compliance with Discord&#39s Terms: Adhere to Discord&#39s own terms of service and community guidelines in all interactions involving the bot.</li>
+            <li>{"Compliance with Discord's Terms: Adhere to Discord's own terms of service and community guidelines in all interactions involving the bot."}</li>
             <li>Report Issues: Promptly report any bugs, glitches, or issues encountered while using Vega to ensure a smooth experience for all users.</li>
         </ul>
 
