@@ -64,7 +64,7 @@ const ContactInformation = () => {
                       Email
                     </h2>
                     <a href='/' className='text-base font-medium text-gray-500 md:text-lg dark:text-gray-400'>
-                      test@email.com
+                      ps7041247@gmail.com
                     </a>
                   </div>
                 </div>
