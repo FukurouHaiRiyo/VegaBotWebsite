@@ -9,13 +9,7 @@ const DescriptionOfService = () => {
           <div className='w-full px-4 mb-10 lg:w-1/2 lg:mb-0'>
             <div className='relativr mx:max-w-md'>
               <img src='tumblr_c90bb56a9bf8859b0e663a6a561a340b_2507a5d2_1280.jpg' alt='vega bot' className='relative z-10 object-cover w-full rounded h-96'></img>
-              <div className='absolute bottom-0 right-0 z-10 p-8 bg-white border-4 border-blue-500 rounded shadow dark:border-blue-400 lg:-mb-8 lg:-mr-11 sm:pb-8 dark:text-gray-300 dark:bg-gray-800'>
-                <p className='text-lg font-semibold md:w-72'>
-                <svg xmlns='http://www.w3.org/2000/svg' fill='currentColor' className='absolute top-0 left-0 w-16 h-16 text-blue-700 dark:text-gray-300 opacity-10' viewBox='0 0 16 16'>
-                  <path d='M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 9 7.558V11a1 1 0 0 0 1 1h2Zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612c0-.351.021-.703.062-1.054.062-.372.166-.703.31-.992.145-.29.331-.517.559-.683.227-.186.516-.279.868-.279V3c-.579 0-1.085.124-1.52.372a3.322 3.322 0 0 0-1.085.992 4.92 4.92 0 0 0-.62 1.458A7.712 7.712 0 0 0 3 7.558V11a1 1 0 0 0 1 1h2Z'></path>
-                  </svg> Successfully providing Discord servers with a variety of features and commands since 2024.
-                </p> 
-              </div>
+              
             </div>
           </div>
 
@@ -27,7 +21,15 @@ const DescriptionOfService = () => {
               </h1>
             </div>
 
-            <p className='mb-6 text-base leading-7 text-gray-500 dark:text-gray-400'>
+            <p className = 'mb-6 text-xs leading-6 text-gray-500 dark:text-gray-400'>
+              Vega is a Discord bot that is designed to help users manage their servers,
+              as well as provide fun features for users to enjoy. Vega is a multi-purpose 
+              bot that can be used to help moderate servers, provide server information, 
+              and play games. Vega is a bot that is constantly being updated and improved, 
+              so be sure to check back often for new features and updates.
+            </p>
+
+            <p className='mb-6 text-xs leading-6 text-gray-500 dark:text-gray-400'>
               <strong className='text-red-200'>Help Command:</strong> Provides users with information on how to use the bot and its commands<br/>
               <strong className='text-red-200'>Bot Information:</strong> Displays detailed information about GameBot<br/>
               <strong className='text-red-200'>Server Information:</strong> Offers insights into server details and statistics<br/>
@@ -35,6 +37,7 @@ const DescriptionOfService = () => {
               <strong className='text-red-200'>Sync and Unsync:</strong> Allows server owners to manage slash commands for customization<br/>
               <strong className='text-red-200'>Dice Roll:</strong> A fun feature to simulate dice rolling for games and decision-making<br/>
               <strong className='text-red-200'>Rock Paper Scissors:</strong> Play the classic Rock, Paper, Scissors game directly in Discord<br/>
+              <strong className='text-red-200'>Moderation commands:</strong> This bot also offers a variety of moderation commands to help manage your server, such as <strong className='text-red-200'>slowmode</strong> - for limiting users when they send messages, <strong className='text-red-200'>purge</strong> - to delete messages in a chat, <strong className='text-red-200'>lock and unlock</strong> - to lock or unlock a specific chat, <strong className='text-red-200'>kick</strong> - to kick members out of your server, <strong className='text-red-200'>ban and unban</strong> - to ban and unban users, <strong className='text-red-200'>mute and unmute</strong> for muting and unmuting users from your server.<br/>
             </p>
           </div>
         </div>
