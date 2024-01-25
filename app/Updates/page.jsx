@@ -43,7 +43,7 @@ const Updates = () => {
 
                     <div>
                         <h2 className='inline-block px-4 py-2 mb-4 text-xs font-medium text-gray-100 bg-gradient-to-r from-blue-500 to-blue-900 dark:from-blue-400 dark:to-blue-500 rounded-3xl dark:text-gray-100'>
-                            January 2024
+                            16th of January 2024
                         </h2>
 
                         <div className='relative flex-1 mb-10 bg-white border-b-4 border-blue-200 shadow dark:border-gray-700 rounded-3xl dark:bg-gray-900'>
@@ -53,7 +53,10 @@ const Updates = () => {
                                 </p>
 
                                 <p class="text-gray-700 dark:text-gray-500">
-                                    Vega bot is released to the public on  16th of January 2024. The bot is still in beta and is being 
+                                    Vega bot is released to the public on  16th of January 2024, 
+                                    containing the basic moderation tools, like warn, kick and ban. Also, Vega has some fun commands like 
+                                    Rock, Paper, Scissors and dice roll.
+                                    The bot is still in beta and is being 
                                     tested by a small group of users.
                                 </p>
                             </div>
@@ -72,8 +75,27 @@ const Updates = () => {
                         <div className='w-px h-full bg-blue-300 dark:bg-gray-600'></div>
                     </div>
 
-                    
+                    <div>
+                        <h2 className='inline-block px-4 py-2 mb-4 text-xs font-medium text-gray-100 bg-gradient-to-r from-blue-500 to-blue-900 dark:from-blue-400 dark:to-blue-500 rounded-3xl dark:text-gray-100'>
+                            20th of January 2024
+                        </h2>
+
+                        <div className='relative flex-1 mb-10 bg-white border-b-4 border-blue-200 shadow dark:border-gray-700 rounded-3xl dark:bg-gray-900'>
+                            <div className='relative z-20 p-6'>
+                                <p className='mb-2 text-xl font-bold text-gray-600 dark:text-gray-400'>
+                                    Website for the bot is released
+                                </p>
+
+                                <p class="text-gray-700 dark:text-gray-500">
+                                    The website for the bot is released. Here, the users can find all the 
+                                    information about the bot, and also the commands and the documentation.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+
+                               
             </div>
         </div>
     </section>
