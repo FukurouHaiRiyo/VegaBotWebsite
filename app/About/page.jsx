@@ -28,7 +28,7 @@ const DescriptionOfService = () => {
               and play games. Vega is a bot that is constantly being updated and improved, 
               so be sure to check back often for new features and updates.
 
-              You can invite the bot in your server using <a href='https://discord.com/api/oauth2/authorize?client_id=1084035121541283930&permissions=1377039411958&scope=bot%20applications.commands' className='font-bold text-red-900'>this link</a>
+              You can invite the bot in your server using <a href='https://discord.com/api/oauth2/authorize?client_id=1084035121541283930&permissions=1377039411958&scope=bot%20applications.commands' className='font-bold text-red-400'>this link</a>
             </p>
 
             <p className='mb-6 text-xs leading-6 text-gray-500 dark:text-gray-400'>
